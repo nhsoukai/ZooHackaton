@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
   },
 });
 
-export default class PlushPower extends React.Component {
+export default class Example extends React.Component {
   constructor(props) {
     super(props);
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import { AppRegistry } from 'react-native';
 
-import PlushPower from './PlushPower';
+import Example from './Example';
 
-AppRegistry.registerComponent('PlushPower', () => PlushPower);
+AppRegistry.registerComponent('PlushPower', () => Example);
