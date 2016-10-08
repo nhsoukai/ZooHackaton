@@ -1,0 +1,16 @@
+{
+ "name": "PlushPowerNode",
+ "version": "0.0.1",
+ "private": true,
+ "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "echo no build",
+    "start": "node startepihandler.js"
+  },
+  "author": "Soukaina N.H.",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}
