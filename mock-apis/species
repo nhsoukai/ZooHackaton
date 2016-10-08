@@ -2,118 +2,147 @@
    {
     "species": {
       "tiger": {
+        "image": "http://someImage",
         "sumatran": {
+          "image": "http://someImage",
           "status": "critically endangered",
           "weight": "165–308 pounds",
           "regions": {
             "asia": "400-500"
           },
           "facts": [
-            "",
-            "",
-            ""
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Nam bibendum est id dui mattis, a maximus nibh sodales.",
+            "Maecenas vel metus ac augue semper eleifend."
           ]
         },
         "bengal": {
+          "image": "http://someImage",
           "status": "endangered",
           "weight": "around 550 pounds",
           "regions": {
             "asia": ">2,500"
           },
           "facts": [
-            "",
-            "",
-            ""
+            "Nunc vel ipsum et lacus bibendum tincidunt non non ex.",
+            "Sed pellentesque elit consectetur enim consectetur, at facilisis ipsum mollis.",
+            "Ut bibendum sapien et eros egestas laoreet."
           ]
         },
         "malayan": {
+          "image": "http://someImage",
           "status": "critically endangered",
           "weight": "220–264 pounds",
           "regions": {
             "asia": "250-340"
           },
           "facts": [
-            "",
-            "",
-            ""
+            "Mauris lobortis neque tempor est pulvinar, sit amet ullamcorper tortor malesuada.",
+            "Sed nec elit laoreet, dapibus urna in, efficitur nunc.",
+            "Donec scelerisque nisl nec mi mattis dapibus."
           ]
         }
       },
       "elephant": {
+        "image": "http://someImage",
         "asian": {
+          "image": "http://someImage",
           "status": "endangered",
           "weight": "around 11,000 pounds",
           "regions": {
             "asia": "40,000-50,000"
           },
           "facts": [
-            "",
-            "",
-            ""
+            "Sed ut lectus auctor, blandit odio vitae, accumsan lacus.",
+            "Ut volutpat lorem vitae ante porttitor pretium.",
+            "Aenean eleifend urna et justo malesuada tincidunt tincidunt quis arcu."
           ]
         },
         "african": {
+          "image": "http://someImage",
           "status": "vulnerable",
           "weight": "6 tons",
           "regions": {
-            "africa": "Approximately 415,000 in the wild"
+            "africa": "415,000"
           },
           "facts": [
-            "",
-            "",
-            ""
+            "Maecenas nec odio sit amet urna mollis porttitor eget id quam.",
+            "Fusce venenatis libero nec rhoncus mollis.",
+            "Nunc eget sapien auctor, ultrices odio vitae, pretium libero."
           ]
         }
       },
       "rhino": {
+        "image": "http://someImage",
         "white": {
+          "image": "http://someImage",
           "status": "Near Threatened",
           "weight": "3,080-7,920 pounds",
           "regions": {
             "africa": "20,170"
           },
           "facts": [
-            "",
-            "",
-            ""
+            "Aenean pulvinar metus eget lorem dignissim tincidunt.",
+            "Sed malesuada mauris sit amet egestas sollicitudin.",
+            "Proin ultrices neque accumsan orci venenatis porttitor."
           ]
         },
         "black": {
+          "image": "http://someImage",
           "status": "critically endangered",
           "weight": "1,760 -3,080 pounds",
           "regions": {
             "africa": "More than 5,000"
           },
           "facts": [
-            "",
-            "",
-            ""
+            "Donec luctus sapien nec sapien tempor pretium.",
+            "Ut at eros a leo vestibulum finibus.",
+            "Suspendisse at diam non augue hendrerit cursus."
           ]
         }
       },
       "penguin": {
+        "image": "http://someImage",
         "empreror": {
+          "image": "http://someImage",
           "status": "not threatened",
           "weight": "80 pounds",
           "regions": {
-            "antartica" : null
+            "antartica": null
           },
           "facts": [
-            "",
-            "",
-            ""
+            "Phasellus auctor felis et massa tincidunt, vitae fermentum libero gravida.",
+            "Maecenas consectetur dui a lorem maximus, finibus vehicula risus imperdiet.",
+            "Praesent gravida magna eu quam cursus efficitur."
           ]
         },
         "african": {
+          "image": "http://someImage",
           "status": "endangered",
-          "weight": "2.2 -3.5kg",
+          "weight": "2.2 - 3.5kg",
           "regions": {
             "africa": "18,700"
           },
           "facts": [
-            "",
-            "",
-            ""
+            "Nunc dictum ex nec pulvinar cursus.",
+            "Ut venenatis urna vitae malesuada viverra.",
+            "Sed vel magna quis erat mattis vestibulum."
+          ]
+        }
+      },
+      "zebra": {
+        "image": "http://someImage",
+        "plains": {
+          "image": "http://someImage",
+          "status": "not threatened",
+          "weight": "175 to 385kg",
+          "regions": {
+            "africa": null
+          },
+          "facts": [
+            "Ut et ipsum pretium, semper nulla et, euismod arcu.",
+            "Etiam quis est id leo elementum ultricies congue in tellus.",
+            "Donec sed nisi vitae ligula sodales iaculis."
           ]
         }
       }
