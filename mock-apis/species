@@ -1,0 +1,130 @@
+{
+    "data": { 
+        "species": {
+            "tiger": {
+                "sumatran":{
+                    "status": "critically endangered",
+                    "weight": "165–308 pounds",
+                    "regions": {
+                        "asia" : "400-500"    
+                        }    
+                    "facts": {
+                           "fact": "", 
+                           "fact": "",
+                           "fact": ""
+                        }
+                    }
+                },
+                "bengal": {
+                 "status": "endangered",
+                 "weight": "around 550 pounds",
+                    "regions": {
+                        "asia" : ">2,500"    
+                        }    
+                    "facts": {
+                           "fact": "", 
+                           "fact": "",
+                           "fact": ""
+                        }
+                    }
+                },
+                "malayan": {
+                 "status": "critically endangered",
+                 "weight": "220–264 pounds",
+                    "regions": {
+                        "asia" : "250-340"  
+                        }      
+                    "facts": {
+                           "fact": "", 
+                           "fact": "",
+                           "fact": ""
+                        }
+                    }
+                }
+            },
+            "elephant": {
+                "asian":{
+                 "status": "endangered",
+                 "weight": "around 11,000 pounds",
+                    "regions": {
+                        "asia" : "40,000-50,000"   
+                        }     
+                    "facts": {
+                           "fact": "", 
+                           "fact": "",
+                           "fact": ""
+                        }
+                    }
+                },
+                "african": {
+                 "status": "vulnerable",
+                 "weight": "6 tons",
+                    "regions": {
+                        "africa" : "Approximately 415,000 in the wild"  
+                        }      
+                    "facts": {
+                           "fact": "", 
+                           "fact": "",
+                           "fact": ""
+                        }
+                    }
+                }
+            },
+            "rhino": {
+                "white":{
+                 "status": "Near Threatened",
+                 "weight": "3,080-7,920 pounds",
+                    "regions": {
+                        "africa" : "20,170"    
+                        }    
+                    "facts": {
+                           "fact": "", 
+                           "fact": "",
+                           "fact": ""
+                        }
+                    }
+                },
+                "black": {
+                 "status": "critically endangered",
+                 "weight": "1,760 -3,080 pounds",
+                    "regions": {
+                        "africa" : "More than 5,000"  
+                        }      
+                    "facts": {
+                           "fact": "", 
+                           "fact": "",
+                           "fact": ""
+                        }
+                    }
+                }
+            },
+            "penguin": {
+                "empreror":{
+                 "status": "not threatened",
+                 "weight": "80 pounds",
+                    "regions": {
+                        }    
+                    "facts": {
+                           "fact": "", 
+                           "fact": "",
+                           "fact": ""
+                        }
+                    }
+                },
+                "african": {
+                 "status": "endangered",
+                 "weight": "2.2 -3.5kg",
+                    "regions": {
+                        "africa" : "18,700"  
+                        }      
+                    "facts": {
+                           "fact": "", 
+                           "fact": "",
+                           "fact": ""
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
