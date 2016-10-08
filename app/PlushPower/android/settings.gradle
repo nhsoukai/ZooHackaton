@@ -1,0 +1,3 @@
+rootProject.name = 'PlushPower'
+
+include ':app'
